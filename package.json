@@ -1,6 +1,6 @@
 {
   "name": "@vivgui/tailwindcss-hyphens",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind CSS utility classes for using the hyphens CSS property",
   "main": "main.js",
   "scripts": {
