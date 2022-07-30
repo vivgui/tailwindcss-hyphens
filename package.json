@@ -1,0 +1,19 @@
+{
+  "name": "@vivgui/tailwindcss-hyphens",
+  "version": "1.0.0",
+  "description": "Tailwind CSS utility classes for using the hyphens CSS property",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivian Guillen",
+  "repository": "https://github.com/vivgui/tailwindcss-hyphens.git",
+  "keywords": [
+    "tailwind css",
+    "hyphens"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.1.7"
+  }
+}
