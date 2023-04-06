@@ -1,3 +1,5 @@
+# I'm archiving this repository because Tailwind CSS has added support for the [`hyphens` property](https://tailwindcss.com/docs/hyphens).
+
 # Tailwind CSS Hyphens
 
 A Tailwind CSS plugin that helps you create utility classes for using the `hyphens` CSS property.
